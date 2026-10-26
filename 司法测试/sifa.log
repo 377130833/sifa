@@ -1,0 +1,10 @@
+2026-10-26 11:24:55 INFO sifa: 日志文件：D:\python_work\sifa\instance\logs\sifa.log
+2026-10-26 11:24:55 INFO sifa: 题库已就绪，共 1711 道题。
+2026-10-26 11:24:55 INFO sifa: 学习平台运行于 http://127.0.0.1:18080
+2026-10-26 11:24:55 INFO sifa: 首次使用请先执行：python app.py create-admin --username admin
+2026-10-26 11:36:31 INFO sifa: 正在关闭服务器……
+2026-10-26 11:36:33 INFO sifa: 服务进程 PID=3992，程序文件=D:\python_work\sifa\app.py
+2026-10-26 11:36:33 INFO sifa: 日志文件：D:\python_work\sifa\instance\logs\sifa.log
+2026-10-26 11:36:33 INFO sifa: 题库已就绪，共 1711 道题。
+2026-10-26 11:36:33 INFO sifa: 学习平台运行于 http://127.0.0.1:18080
+2026-10-26 11:36:33 INFO sifa: 首次使用请先执行：python app.py create-admin --username admin

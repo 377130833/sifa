@@ -1,0 +1,604 @@
+2026-10-26 11:24:55 INFO sifa: 日志文件：D:\python_work\sifa\instance\logs\sifa.log
+2026-10-26 11:24:55 INFO sifa: 题库已就绪，共 1711 道题。
+2026-10-26 11:24:55 INFO sifa: 学习平台运行于 http://127.0.0.1:18080
+2026-10-26 11:24:55 INFO sifa: 首次使用请先执行：python app.py create-admin --username admin
+2026-10-26 11:36:31 INFO sifa: 正在关闭服务器……
+2026-10-26 11:36:33 INFO sifa: 服务进程 PID=3992，程序文件=D:\python_work\sifa\app.py
+2026-10-26 11:36:33 INFO sifa: 日志文件：D:\python_work\sifa\instance\logs\sifa.log
+2026-10-26 11:36:33 INFO sifa: 题库已就绪，共 1711 道题。
+2026-10-26 11:36:33 INFO sifa: 学习平台运行于 http://127.0.0.1:18080
+2026-10-26 11:36:33 INFO sifa: 首次使用请先执行：python app.py create-admin --username admin
+2026-10-26 12:05:17 INFO sifa: 正在关闭服务器……
+2026-10-26 12:05:28 INFO sifa: 服务进程 PID=22400，程序文件=D:\python_work\sifa\app.py
+2026-10-26 12:05:28 INFO sifa: 日志文件：D:\python_work\sifa\instance\logs\sifa.log
+2026-10-26 12:05:29 INFO sifa: 题库已就绪，共 1711 道题。
+2026-10-26 12:05:29 INFO sifa: 学习平台运行于 http://127.0.0.1:18080
+2026-10-26 12:05:29 INFO sifa: 首次使用请先执行：python app.py create-admin --username admin
+2026-10-26 12:05:42 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET / HTTP/1.1" 200 -
+2026-10-26 12:05:42 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /static/styles.css HTTP/1.1" 200 -
+2026-10-26 12:05:42 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /static/app.js HTTP/1.1" 200 -
+2026-10-26 12:05:42 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/me HTTP/1.1" 401 -
+2026-10-26 12:05:47 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/login HTTP/1.1" 200 -
+2026-10-26 12:05:47 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:05:47 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:05:47 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:05:52 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:05:52 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:05:54 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:05:54 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:05:54 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:05:55 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:05:55 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:06:00 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/exams/current HTTP/1.1" 200 -
+2026-10-26 12:06:00 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/exam/config HTTP/1.1" 200 -
+2026-10-26 12:06:00 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:06:02 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/wrong?page=1 HTTP/1.1" 200 -
+2026-10-26 12:06:03 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/favorites?page=1 HTTP/1.1" 200 -
+2026-10-26 12:06:03 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/exams/history HTTP/1.1" 200 -
+2026-10-26 12:06:07 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/admin/settings HTTP/1.1" 200 -
+2026-10-26 12:06:09 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/admin/users HTTP/1.1" 200 -
+2026-10-26 12:06:26 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/admin/users HTTP/1.1" 400 -
+2026-10-26 12:06:40 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/admin/users HTTP/1.1" 201 -
+2026-10-26 12:06:40 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/admin/users HTTP/1.1" 200 -
+2026-10-26 12:06:40 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/admin/users HTTP/1.1" 200 -
+2026-10-26 12:06:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/admin/users HTTP/1.1" 200 -
+2026-10-26 12:06:56 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/logout HTTP/1.1" 200 -
+2026-10-26 12:07:02 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/login HTTP/1.1" 200 -
+2026-10-26 12:07:02 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:07:02 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:07:02 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:07:05 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:07:05 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:07:07 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/exams/current HTTP/1.1" 200 -
+2026-10-26 12:07:07 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/exam/config HTTP/1.1" 200 -
+2026-10-26 12:07:07 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:07:21 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:07:21 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:18:55 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/question?section=single HTTP/1.1" 200 -
+2026-10-26 12:19:01 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/practice/answer HTTP/1.1" 200 -
+2026-10-26 12:19:26 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/question?section=single HTTP/1.1" 200 -
+2026-10-26 12:19:39 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/practice/answer HTTP/1.1" 200 -
+2026-10-26 12:19:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/question?section=single HTTP/1.1" 200 -
+2026-10-26 12:19:56 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/practice/answer HTTP/1.1" 200 -
+2026-10-26 12:20:00 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/question?section=single HTTP/1.1" 200 -
+2026-10-26 12:20:10 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/practice/answer HTTP/1.1" 200 -
+2026-10-26 12:20:27 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/question?section=single HTTP/1.1" 200 -
+2026-10-26 12:26:11 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/logout HTTP/1.1" 200 -
+2026-10-26 12:26:16 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/login HTTP/1.1" 200 -
+2026-10-26 12:26:16 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:26:16 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:26:16 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:26:16 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:26:17 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:26:17 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:26:17 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:26:20 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:26:20 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:26:20 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:26:20 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:26:21 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:26:21 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:26:21 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:26:22 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:26:22 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:26:22 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:26:23 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:26:23 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:26:23 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:26:23 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:26:23 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:26:23 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:26:23 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:26:23 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:26:23 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:26:23 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:26:23 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:26:23 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:26:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET / HTTP/1.1" 200 -
+2026-10-26 12:26:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /static/styles.css HTTP/1.1" 200 -
+2026-10-26 12:26:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /static/app.js HTTP/1.1" 200 -
+2026-10-26 12:26:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/me HTTP/1.1" 401 -
+2026-10-26 12:26:51 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/login HTTP/1.1" 200 -
+2026-10-26 12:26:51 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:26:51 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:26:51 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:26:53 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:26:53 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:26:54 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/question?section=single HTTP/1.1" 200 -
+2026-10-26 12:27:01 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:01 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:27:04 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/exams/current HTTP/1.1" 200 -
+2026-10-26 12:27:04 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/exam/config HTTP/1.1" 200 -
+2026-10-26 12:27:04 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:05 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:05 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:27:08 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/logout HTTP/1.1" 200 -
+2026-10-26 12:27:24 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/login HTTP/1.1" 200 -
+2026-10-26 12:27:24 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:24 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:27:24 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:27:24 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:27:26 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:26 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:27:26 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:27:27 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/exams/current HTTP/1.1" 200 -
+2026-10-26 12:27:27 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/exam/config HTTP/1.1" 200 -
+2026-10-26 12:27:27 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:31 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:31 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:27:31 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:27:33 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /static/styles.css HTTP/1.1" 200 -
+2026-10-26 12:27:33 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+2026-10-26 12:27:35 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:35 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:27:35 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:27:35 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:35 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:27:35 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:27:43 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:43 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:27:43 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:27:43 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:27:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET / HTTP/1.1" 200 -
+2026-10-26 12:27:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /static/styles.css HTTP/1.1" 200 -
+2026-10-26 12:27:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /static/app.js HTTP/1.1" 200 -
+2026-10-26 12:27:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+2026-10-26 12:27:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/me HTTP/1.1" 200 -
+2026-10-26 12:27:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:27:45 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:27:45 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:27:46 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/logout HTTP/1.1" 200 -
+2026-10-26 12:27:52 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/login HTTP/1.1" 200 -
+2026-10-26 12:27:52 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:52 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:27:52 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:27:53 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:53 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:27:54 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/exams/current HTTP/1.1" 200 -
+2026-10-26 12:27:54 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/exam/config HTTP/1.1" 200 -
+2026-10-26 12:27:54 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:54 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:54 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:27:55 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:27:55 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:27:55 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 200 -
+2026-10-26 12:27:56 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/logout HTTP/1.1" 200 -
+2026-10-26 12:28:06 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/login HTTP/1.1" 200 -
+2026-10-26 12:28:06 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:28:06 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:28:06 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:28:06 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:28:17 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET / HTTP/1.1" 200 -
+2026-10-26 12:28:17 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /static/styles.css HTTP/1.1" 200 -
+2026-10-26 12:28:17 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /static/app.js HTTP/1.1" 200 -
+2026-10-26 12:28:17 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/me HTTP/1.1" 401 -
+2026-10-26 12:28:27 INFO sifa: PID 22400 客户端 127.0.0.1 - "POST /api/login HTTP/1.1" 200 -
+2026-10-26 12:28:27 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:28:27 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:28:27 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:28:27 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
+2026-10-26 12:28:56 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /static/styles.css HTTP/1.1" 200 -
+2026-10-26 12:28:56 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+2026-10-26 12:28:57 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/bank HTTP/1.1" 200 -
+2026-10-26 12:28:57 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/dashboard HTTP/1.1" 200 -
+2026-10-26 12:28:57 ERROR sifa: GET 请求发生未处理异常，路径：/api/practice/progress
+Traceback (most recent call last):
+  File "D:\python_work\sifa\app.py", line 345, in do_GET
+    self.route_get(parsed.path, params, user)
+  File "D:\python_work\sifa\app.py", line 427, in route_get
+    self.practice_progress(user)
+  File "D:\python_work\sifa\app.py", line 564, in practice_progress
+    self.send_json(200, {"sections": result})
+  File "D:\python_work\sifa\app.py", line 276, in send_json
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\18866\AppData\Local\Python\pythoncore-3.11-64\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type Decimal is not JSON serializable
+2026-10-26 12:28:57 INFO sifa: PID 22400 客户端 127.0.0.1 - "GET /api/practice/progress HTTP/1.1" 500 -
